@@ -2,7 +2,7 @@ celery==5.3.6  # pyup: < 6.0  # https://github.com/celery/celery
 
 # Django
 # ------------------------------------------------------------------------------
-django==4.2.10  # pyup: < 5.0  # https://www.djangoproject.com/
+django==5.0.3  # pyup: < 5.0  # https://www.djangoproject.com/
 django-allauth==0.61.1  # https://github.com/pennersr/django-allauth
 # Django REST Framework
 djangorestframework==3.14.0  # https://github.com/encode/django-rest-framework
