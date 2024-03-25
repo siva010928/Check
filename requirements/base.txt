@@ -8,7 +8,7 @@ django-allauth==0.61.1  # https://github.com/pennersr/django-allauth
 djangorestframework==3.14.0  # https://github.com/encode/django-rest-framework
 # DRF-spectacular for api documentation
 
-pydantic~=2.6.1
+pydantic~=2.6.4
 
 
 pytest~=8.0.0
